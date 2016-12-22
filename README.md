@@ -22,3 +22,7 @@ responsibility.
 
 ## Warning
 The [zip file](https://www.virustotal.com/en/file/f10667215040e87dae62dd48a5405b3b1b0fe7dbbfbf790d5300f3cd54893333/analysis/1477822491/) for the is repo is being identified by some AV programs as malware.  Please take caution. 
+
+# Reverse Engineering
+I'm reading line by line the entire code and watching how this bot is doing his job
+## Documentation
